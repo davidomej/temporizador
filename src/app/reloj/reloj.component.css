@@ -1,0 +1,15 @@
+div{
+    font-size: 5em;
+    text-align: center;
+    width: 100%;
+}
+
+button{
+    border-radius: 5px;
+    padding: 10px;
+    background-color: gray;
+    color:white;
+    font-size: 0.25em;
+    cursor:pointer;
+    margin: 10px;
+}
